@@ -1,6 +1,6 @@
 法政大学の西館213教室で、
 10月11日午後1時から、
-Microsoft社の
+Macrosoft社の
 Ms.Kate Hills氏が
 講習会を行う
 テーマは「Moon Micro System社の開発環境 Moon-1を用いた開発」で、
